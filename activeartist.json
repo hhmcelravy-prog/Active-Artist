@@ -1,0 +1,364 @@
+{
+  "tabs": [
+    {
+      "id": "challenge",
+      "label": "Challenge",
+      "sections": [],
+      "prompts": [
+        "Draw a castle",
+        "Draw a scene with a moon",
+        "Draw a bat",
+        "Draw a character with long silver hair",
+        "Draw a feast",
+        "Draw a vampire character",
+        "Draw a duchess character",
+        "Draw two characters dancing",
+        "Draw a demonic character",
+        "Draw the moon personified",
+        "Draw the sun personified",
+        "Draw a character flying",
+        "Draw what “death” means to you",
+        "Draw what “wish” means to you",
+        "Draw roses",
+        "Draw a crow",
+        "Draw an immortal character",
+        "Draw a scene with a bed",
+        "Draw what “blessing” means to you",
+        "Draw a braid",
+        "Draw what “rest” means to you",
+        "Draw a character with silver wings",
+        "Draw what “departure” means to you",
+        "Draw a character speaking or singing",
+        "Draw a character with magic",
+        "Draw a character with light clothes vs one with dark clothes",
+        "Draw a rose personified",
+        "Draw a feather personified",
+        "Draw a road or highway",
+        "Draw a city",
+        "Draw a character wearing glasses/sunglasses",
+        "Draw a scene with a sunset",
+        "Draw some sweet treats",
+        "Draw a car",
+        "Draw a character driving",
+        "Draw a character with purple hair",
+        "Draw a character with messy or tangled hair",
+        "Draw a scene with the night sky",
+        "Draw a character being blown by the breeze",
+        "Draw two characters laughing together",
+        "Draw a character playing",
+        "Draw two characters sharing a kiss",
+        "Draw hands being held",
+        "Draw a character in a fancy outfit",
+        "Draw a character in red clothes",
+        "Draw what “trust” means to you",
+        "Draw focusing on scenery",
+        "Draw a hat",
+        "Draw someone resting",
+        "Draw someone sick",
+        "Draw what “medicine” means to you",
+        "Draw what “tranquil” means to you",
+        "Draw what “warm” means to you",
+        "Draw what “comfort” means to you",
+        "Draw something that cuts",
+        "Draw someone hurt",
+        "Draw someone in bandages",
+        "Draw based on what you’re experiencing with your five senses",
+        "Draw a character teasing another",
+        "Draw a character attacking",
+        "Draw a character gazing at something",
+        "Draw a small animal",
+        "Draw a light-toned scene"
+      ]
+    },
+    {
+      "id": "foundations",
+      "label": "Foundations of Seeing",
+      "sections": [
+        {
+          "id": "found-line",
+          "label": "Line, Shape & Accuracy",
+          "levels": [
+            {
+              "id": "L1",
+              "title": "Contour & Gesture Fundamentals",
+              "description": "Train the hand to follow the eye. Learn rhythm, flow, proportion.",
+              "prompt": "Draw 10 objects using only continuous contour lines. Then draw 10 gesture sketches of moving subjects.",
+              "image": "p4images/foundationsofseeing/L1.png"
+            },
+            {
+              "id": "L2",
+              "title": "Measuring & Proportion",
+              "description": "Develop accuracy through sight-size, comparative measurement, and angle checking.",
+              "prompt": "Pick a simple still life (mug, book, sphere). Create three drawings: blind contour, measured block-in, refined line.",
+              "image": "p4images/foundationsofseeing/L2.png"
+            }
+          ]
+        },
+        {
+          "id": "found-value",
+          "label": "Value & Form",
+          "levels": [
+            {
+              "id": "L3",
+              "title": "Light Logic Study",
+              "description": "Learn the 5-value system: light, midtone, core shadow, reflected light, cast shadow.",
+              "prompt": "Shade a sphere, cube, and cylinder from a single light source in black and white.",
+              "image": "p4images/foundationsofseeing/L3.png"
+            },
+            {
+              "id": "L4",
+              "title": "Object Rendering",
+              "description": "Understand how light interacts with surface textures.",
+              "prompt": "Render three objects with distinct textures (metal, fruit, fabric).",
+              "image": "p4images/foundationsofseeing/L4.png"
+            }
+          ]
+        },
+        {
+          "id": "found-persp",
+          "label": "Perspective & Space",
+          "levels": [
+            {
+              "id": "L5",
+              "title": "Linear Perspective Mastery",
+              "description": "1-point, 2-point, 3-point perspective; horizon line awareness; scale shifts.",
+              "prompt": "Draw a simple room from imagination in 1-point, then the same room in 2-point.",
+              "image": "p4images/foundationsofseeing/L5.png"
+            },
+            {
+              "id": "L6",
+              "title": "Atmospheric & Spatial Depth",
+              "description": "Convey distance using value, edge control, simplification.",
+              "prompt": "Create a landscape emphasizing foreground/midground/background contrast.",
+              "image": "p4images/foundationsofseeing/L6.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living",
+      "label": "Drawing the Living World",
+      "sections": [
+        {
+          "id": "fig-gesture",
+          "label": "The Human Figure",
+          "levels": [
+            {
+              "id": "L7",
+              "title": "Gesture Mastery",
+              "description": "Capture life, energy, and weight in under 60 seconds.",
+              "prompt": "Do 30 gesture drawings using reference or live models.",
+              "image": "p4images/foundationsofseeing/L1.png"
+            },
+            {
+              "id": "L8",
+              "title": "Mannequinization & Structure",
+              "description": "Break the body into simple forms (boxes, cylinders) to learn construction.",
+              "prompt": "Draw 10 standing poses and 10 dynamic poses using simple 3D forms only.",
+              "image": "p4images/L8.png"
+            }
+          ]
+        },
+        {
+          "id": "anatomy",
+          "label": "Anatomy",
+          "levels": [
+            {
+              "id": "L9",
+              "title": "Torso & Ribcage Study",
+              "description": "Learn skeletal landmarks, ribcage tilt, pelvis rotations.",
+              "prompt": "Draw 15 torso studies focusing on ribcage–pelvis relationship.",
+              "image": "p4images/L9.png"
+            },
+            {
+              "id": "L10",
+              "title": "Limbs & Hands",
+              "description": "Understand proportion, joint mechanics, foreshortening.",
+              "prompt": "10 arm studies, 10 leg studies, 10 hands, 5 feet.",
+              "image": "p4images/L10.png"
+            }
+          ]
+        },
+        {
+          "id": "animals",
+          "label": "Animals & Creatures",
+          "levels": [
+            {
+              "id": "L11",
+              "title": "Animal Construction",
+              "description": "Learn how different skeletal structures translate to forms.",
+              "prompt": "Choose 3 animals; draw their skeleton, simple forms, then a rendered study.",
+              "image": "p4images/L11.png"
+            },
+            {
+              "id": "L12",
+              "title": "Creature Design Using Real Anatomy",
+              "description": "Combine anatomical rules creatively.",
+              "prompt": "Design an original creature using the structure of two real animals.",
+              "image": "p4images/L12.png"
+            }
+          ]
+        },
+        {
+          "id": "drapery",
+          "label": "Drapery & Clothing",
+          "levels": [
+            {
+              "id": "L13",
+              "title": "Drapery Logic",
+              "description": "Study folds: pipe, zigzag, spiral, tension, inert, diagonal.",
+              "prompt": "Set up a cloth still life. Draw each fold type intentionally.",
+              "image": "p4images/L13.png"
+            },
+            {
+              "id": "L14",
+              "title": "Costumed Figure Study",
+              "description": "Understand how clothing interacts with form beneath.",
+              "prompt": "Draw a figure in layered clothing, showing structure through folds.",
+              "image": "p4images/L14.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "label": "Design & Composition",
+      "sections": [
+        {
+          "id": "comp-fund",
+          "label": "Composition Fundamentals",
+          "levels": [
+            {
+              "id": "L15",
+              "title": "Thumbnail Composition Mastery",
+              "description": "Learn rule of thirds, balance, focal points, value grouping.",
+              "prompt": "Make 20 small thumbnails for a scene. Choose the strongest and refine it.",
+              "image": "p4images/L15.png"
+            },
+            {
+              "id": "L16",
+              "title": "Notan & Value Design",
+              "description": "Simplify complex images into black/white for clarity.",
+              "prompt": "Take three reference images. Turn each into a 2-value notan, then a 4-value design.",
+              "image": "p4images/L16.png"
+            }
+          ]
+        },
+        {
+          "id": "vis-story",
+          "label": "Visual Storytelling",
+          "levels": [
+            {
+              "id": "L17",
+              "title": "Narrative Moments",
+              "description": "Convey action, emotion, and intention in a single frame.",
+              "prompt": "Create a drawing that captures a 'moment in time' — just before or after an event.",
+              "image": "p4images/L17.png"
+            },
+            {
+              "id": "L18",
+              "title": "Character Interaction",
+              "description": "Show dynamics using body language, staging, and silhouette.",
+              "prompt": "Draw two characters whose relationship is clear without words.",
+              "image": "p4images/L18.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "style",
+      "label": "Style, Medium & Personal Voice",
+      "sections": [
+        {
+          "id": "medium",
+          "label": "Medium Exploration",
+          "levels": [
+            {
+              "id": "L19",
+              "title": "Multi-Medium Sprint",
+              "description": "Learn adaptability and discover preferences.",
+              "prompt": "Create one drawing each in pencil, ink, marker, charcoal, digital lineart, and digital painting.",
+              "image": "p4images/L19.png"
+            },
+            {
+              "id": "L20",
+              "title": "Texture & Brushwork",
+              "description": "Develop a vocabulary of mark-making.",
+              "prompt": "Create a page of textures/marks using 5 different techniques or tools.",
+              "image": "p4images/L20.png"
+            }
+          ]
+        },
+        {
+          "id": "dev-style",
+          "label": "Style Development",
+          "levels": [
+            {
+              "id": "L21",
+              "title": "Style Deconstruction",
+              "description": "Analyze 3 artists you admire. Understand choices rather than copying outcomes.",
+              "prompt": "Break down each artist’s shapes, values, color logic, edges, exaggerations.",
+              "image": "p4images/L21.png"
+            },
+            {
+              "id": "L22",
+              "title": "Synthesis Experiments",
+              "description": "Combine your influences intentionally.",
+              "prompt": "Create 3 pieces, each mixing two different stylistic ideas.",
+              "image": "p4images/L22.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "masterworks",
+      "label": "Advanced Creation & Masterworks",
+      "sections": [
+        {
+          "id": "complex",
+          "label": "Complex Scenes",
+          "levels": [
+            {
+              "id": "L23",
+              "title": "Multi-Figure Composition",
+              "description": "Integrate anatomy, depth, lighting, and storytelling.",
+              "prompt": "Create a drawing containing at least three characters interacting.",
+              "image": "p4images/L23.png"
+            },
+            {
+              "id": "L24",
+              "title": "Environment + Character Integration",
+              "description": "Ensure the environment supports narrative and mood.",
+              "prompt": "Draw a main character placed inside a complex environment with consistent perspective and lighting.",
+              "image": "p4images/L24.png"
+            }
+          ]
+        },
+        {
+          "id": "final",
+          "label": "Personal Masterpiece",
+          "levels": [
+            {
+              "id": "L25",
+              "title": "Preliminary Studies",
+              "description": "Use the classical workflow: thumbnails → sketches → value comps → color comps.",
+              "prompt": "Choose a theme meaningful to you. Create a full cycle of preparatory work.",
+              "image": "p4images/L25.01.png"
+            },
+            {
+              "id": "L26",
+              "title": "Final Masterwork",
+              "description": "Apply everything you’ve learned.",
+              "prompt": "Create a polished, exhibition-level piece in any medium. Minimum 20+ hours.",
+              "image": "p4images/L26.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
