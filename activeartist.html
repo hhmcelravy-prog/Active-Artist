@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Active Artist — Course</title>
+  <link rel="stylesheet" href="activeartist.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="brand">ACTIVE ARTIST</h1>
+    <div class="subtitle">The Artist’s Master Course</div>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Course tabs">
+    <!-- Tabs injected by JS -->
+  </nav>
+
+  <main class="container">
+    <aside class="left-col">
+      <div id="tabProgressWrap" class="tab-progress">
+        <div class="progress-label">Tab progress</div>
+        <div class="progress-bar" aria-hidden="true">
+          <div id="globalProgressFill" class="progress-fill"></div>
+        </div>
+        <div id="progressPercent" class="progress-percent">0%</div>
+      </div>
+
+      <section id="sections" class="sections">
+        <!-- Section headings + level cards injected here -->
+      </section>
+    </aside>
+
+    <aside id="detailPanel" class="detail-panel" aria-hidden="true">
+      <button id="closeDetail" class="close-btn" aria-label="Close">✕</button>
+      <div id="detailContent"></div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <small>Designed by Haven — Active Artist prototype</small>
+  </footer>
+
+  <script src="activeartist.js"></script>
+</body>
+</html>
